@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "reachability@^1.1.2",
+        "scope": null,
+        "escapedName": "reachability",
+        "name": "reachability",
+        "rawSpec": "^1.1.2",
+        "spec": ">=1.1.2 <2.0.0",
+        "type": "range"
+      },
+      "/Users/awolfson166/Desktop/Projects/SMAWL/Code/Ionic"
+    ]
+  ],
+  "_from": "reachability@>=1.1.2 <2.0.0",
+  "_id": "reachability@1.1.4",
+  "_inCache": true,
+  "_location": "/reachability",
+  "_nodeVersion": "6.9.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/reachability-1.1.4.tgz_1515336193147_0.0940791864413768"
+  },
+  "_npmUser": {
+    "name": "master-splinter",
+    "email": "adam@adamwolfson.com"
+  },
+  "_npmVersion": "4.1.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "reachability@^1.1.2",
+    "scope": null,
+    "escapedName": "reachability",
+    "name": "reachability",
+    "rawSpec": "^1.1.2",
+    "spec": ">=1.1.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reachability/-/reachability-1.1.4.tgz",
+  "_shasum": "6a1025d65a5378fa5ef84bbe46713ff48c90d5c7",
+  "_shrinkwrap": null,
+  "_spec": "reachability@^1.1.2",
+  "_where": "/Users/awolfson166/Desktop/Projects/SMAWL/Code/Ionic",
+  "author": {
+    "name": "Adam Wolfson"
+  },
+  "dependencies": {},
+  "description": "A package for ionic based apps to determine a device's connection to the internet",
+  "devDependencies": {
+    "typescript": "2.4.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6a1025d65a5378fa5ef84bbe46713ff48c90d5c7",
+    "tarball": "https://registry.npmjs.org/reachability/-/reachability-1.1.4.tgz"
+  },
+  "gitHead": "3b10ab1afe48007b48ea55821ee779cb8949aabb",
+  "keywords": [
+    "reachability",
+    "network",
+    "online"
+  ],
+  "license": "MIT",
+  "main": "reachability.js",
+  "maintainers": [
+    {
+      "name": "master-splinter",
+      "email": "adam@adamwolfson.com"
+    }
+  ],
+  "name": "reachability",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "reachability.d.ts",
+  "version": "1.1.4"
+}
