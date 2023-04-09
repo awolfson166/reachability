@@ -1,4 +1,5 @@
-'use strict';
+"use strict";
+
 function listen(evts, func, toAdd) {
 	var fn = window[(toAdd ? 'add' : 'remove') + 'EventListener'];
 	evts.split(' ').forEach(function (ev) {
